@@ -29,10 +29,10 @@ export const Hero = () => {
                 className="z-10"
             >
                 <h1 className="omelet-heading mb-4">
-                    ROMPEMOS PARA
+                    PORTAFOLIO
                 </h1>
                 <h1 className="omelet-heading text-primary">
-                    CREAR!
+                    2026
                 </h1>
             </motion.div>
 

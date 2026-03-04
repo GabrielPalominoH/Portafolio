@@ -96,7 +96,7 @@ export const Contact = () => {
 
                 <div className="mt-40 text-center border-t-4 border-black pt-12">
                     <p className="font-display text-2xl italic">&copy; {new Date().getFullYear()} GABRIEL PORTFOLIO</p>
-                    <p className="font-bold text-default-400 mt-2 uppercase tracking-widest">ROMPIENDO PARA CREAR</p>
+                    <p className="font-bold text-default-400 mt-2 uppercase tracking-widest">INNOVACION QUE FUNCIONA</p>
                 </div>
             </div>
         </section>

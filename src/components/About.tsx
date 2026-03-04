@@ -22,7 +22,7 @@ export const About = () => {
 
                         <div className="text-default-600 text-xl font-bold uppercase tracking-tighter space-y-8 italic">
                             <p>
-                                Soy un apasionado desarrollador frontend con una fuerte inclinación hacia el <span className="text-foreground border-b-4 border-primary">diseño UI/UX</span> impactante.
+                                Hola! Soy Gabriel Palomino, un apasionado desarrollador frontend con una fuerte inclinación hacia el <span className="text-foreground border-b-4 border-primary">diseño UI/UX</span> impactante.
                             </p>
                             <p>
                                 Mi enfoque es transformar ideas en <span className="text-foreground">experiencias memorables</span> que rompen lo convencional.

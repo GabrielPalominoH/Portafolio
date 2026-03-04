@@ -35,7 +35,7 @@ export const Projects = () => {
                     viewport={{ once: true }}
                     className="mb-20"
                 >
-                    <h2 className="text-4xl md:text-7xl font-display italic">NUESTROS</h2>
+                    <h2 className="text-4xl md:text-8xl font-display italic">MIS</h2>
                     <h2 className="text-5xl md:text-9xl font-display italic text-primary mt-[-20px] md:mt-[-40px]">PROYECTOS</h2>
                 </motion.div>
 
