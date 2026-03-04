@@ -11,10 +11,10 @@ export const Projects = () => {
             link: "https://sonrisas-dental.vercel.app"
         },
         {
-            title: "OMELET CLONE",
+            title: "RIKITO PE",
             image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop",
             tech: "REACT + FRAMER MOTION",
-            type: "PORTFOLIO",
+            type: "ECOMMERCE",
             link: "#"
         },
         {
