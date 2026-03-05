@@ -16,6 +16,7 @@ export default {
       colors: {
         primary: {
           DEFAULT: "#FFF000",
+          text: "#fad90e",
           foreground: "#000000",
         },
       }
@@ -29,6 +30,7 @@ export default {
           colors: {
             primary: {
               DEFAULT: "#FFF000",
+              text: "#fad90e",
               foreground: "#000000",
             },
             background: "#ffffff",
@@ -39,6 +41,7 @@ export default {
           colors: {
             primary: {
               DEFAULT: "#FFF000",
+              text: "#fad90e",
               foreground: "#000000",
             },
             background: "#0a0a0a",

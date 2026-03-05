@@ -7,6 +7,7 @@
 @layer base {
   :root {
     --omelet-yellow: #FFF000;
+    --omelet-yellow-text: #fad90e;
   }
 
   /* html {

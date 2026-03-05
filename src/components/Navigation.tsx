@@ -13,7 +13,7 @@ export const Navigation = () => {
                 className="fixed left-0 top-0 h-screen w-12 md:w-24 bg-primary flex flex-col items-center justify-between py-8 md:py-12 z-50 border-r-2 border-black hidden sm:flex"
             >
                 <div className="flex flex-col items-center gap-8 md:gap-12">
-                    <div className="w-8 h-8 md:w-12 md:h-12 bg-black rounded-full flex items-center justify-center text-primary font-display text-xl md:text-2xl overflow-hidden">
+                    <div className="w-8 h-8 md:w-12 md:h-12 bg-black rounded-full flex items-center justify-center text-primary-text font-display text-xl md:text-2xl overflow-hidden">
                         <span className="translate-y-1">O</span>
                     </div>
                     <div className="[writing-mode:vertical-lr] rotate-180 flex items-center gap-4 md:gap-6">
@@ -32,16 +32,16 @@ export const Navigation = () => {
                 className="fixed right-0 top-0 h-screen w-12 md:w-20 bg-background flex flex-col items-center justify-center gap-8 md:gap-12 z-50 border-l-2 border-default-200 hidden sm:flex"
             >
                 <div className="flex flex-col items-center gap-6 md:gap-8">
-                    <Link href="https://github.com/GabrielPalominoH" target="_blank" className="text-foreground hover:text-primary transition-colors">
+                    <Link href="https://github.com/GabrielPalominoH" target="_blank" className="text-foreground hover:text-primary-text transition-colors">
                         <Github size={20} className="md:w-6 md:h-6" />
                     </Link>
-                    <Link href="#" className="text-foreground hover:text-primary transition-colors">
+                    <Link href="#" className="text-foreground hover:text-primary-text transition-colors">
                         <Linkedin size={20} className="md:w-6 md:h-6" />
                     </Link>
-                    <Link href="#" className="text-foreground hover:text-primary transition-colors">
+                    <Link href="#" className="text-foreground hover:text-primary-text transition-colors">
                         <Twitter size={20} className="md:w-6 md:h-6" />
                     </Link>
-                    <Link href="#" className="text-foreground hover:text-primary transition-colors">
+                    <Link href="#" className="text-foreground hover:text-primary-text transition-colors">
                         <Mail size={20} className="md:w-6 md:h-6" />
                     </Link>
                 </div>

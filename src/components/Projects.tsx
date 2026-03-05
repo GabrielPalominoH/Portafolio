@@ -36,7 +36,7 @@ export const Projects = () => {
                     className="mb-20"
                 >
                     <h2 className="text-4xl md:text-8xl font-display italic">MIS</h2>
-                    <h2 className="text-5xl md:text-9xl font-display italic text-primary mt-[-20px] md:mt-[-40px]">PROYECTOS</h2>
+                    <h2 className="text-5xl md:text-9xl font-display italic text-primary-text mt-[-20px] md:mt-[-40px]">PROYECTOS</h2>
                 </motion.div>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
@@ -61,7 +61,7 @@ export const Projects = () => {
                                     <span className="bg-primary text-black px-4 py-1 font-bold text-xs rounded-full mb-4">
                                         {project.type}
                                     </span>
-                                    <h3 className="text-3xl md:text-4xl font-display text-white italic group-hover:text-primary transition-colors">
+                                    <h3 className="text-3xl md:text-4xl font-display text-white italic group-hover:text-primary-text transition-colors">
                                         {project.title}
                                     </h3>
                                     <p className="text-white/60 font-bold mt-2">{project.tech}</p>

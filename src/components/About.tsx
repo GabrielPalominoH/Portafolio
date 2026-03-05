@@ -18,7 +18,7 @@ export const About = () => {
                 >
                     <div>
                         <h2 className="text-4xl md:text-7xl font-display italic mb-8">SOBRE</h2>
-                        <h2 className="text-5xl md:text-9xl font-display italic text-primary mt-[-20px] md:mt-[-40px] mb-12">MI</h2>
+                        <h2 className="text-5xl md:text-9xl font-display italic text-primary-text mt-[-20px] md:mt-[-40px] mb-12">MI</h2>
 
                         <div className="text-default-600 text-xl font-bold uppercase tracking-tighter space-y-8 italic">
                             <p>
@@ -32,7 +32,7 @@ export const About = () => {
 
                     <Card className="bg-black text-white p-12 rounded-[60px] border-none shadow-2xl">
                         <CardBody>
-                            <h3 className="text-2xl font-display italic text-primary mb-12 text-center">SKILLS</h3>
+                            <h3 className="text-2xl font-display italic text-primary-text mb-12 text-center">SKILLS</h3>
                             <div className="grid grid-cols-3 sm:grid-cols-5 gap-6 justify-items-center">
                                 {skills.map((skill, index) => (
                                     <motion.div

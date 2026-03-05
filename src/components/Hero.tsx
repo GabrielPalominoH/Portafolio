@@ -31,7 +31,7 @@ export const Hero = () => {
                 <h1 className="omelet-heading mb-4">
                     PORTAFOLIO
                 </h1>
-                <h1 className="omelet-heading text-primary">
+                <h1 className="omelet-heading text-primary-text">
                     2026
                 </h1>
             </motion.div>

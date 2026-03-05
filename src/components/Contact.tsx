@@ -33,12 +33,12 @@ export const Contact = () => {
                 >
                     <div>
                         <h2 className="text-4xl md:text-7xl font-display italic mb-8">HABLEMOS</h2>
-                        <h2 className="text-5xl md:text-9xl font-display italic text-primary mt-[-20px] md:mt-[-40px] mb-12">AHORA</h2>
+                        <h2 className="text-5xl md:text-9xl font-display italic text-primary-text mt-[-20px] md:mt-[-40px] mb-12">AHORA</h2>
 
                         <div className="text-default-600 text-xl font-bold uppercase tracking-tighter space-y-4 italic">
                             <p>¿TIENES UN PROYECTO?</p>
                             <p>¿QUIERES COLABORAR?</p>
-                            <p className="text-primary">ROMPE EL HIELO!</p>
+                            <p className="text-primary-text">ROMPE EL HIELO!</p>
                         </div>
                     </div>
 
@@ -54,7 +54,7 @@ export const Contact = () => {
                                 variant="underlined"
                                 labelPlacement="outside"
                                 classNames={{
-                                    label: "font-display text-2xl italic text-primary !mb-6",
+                                    label: "font-display text-2xl italic text-primary-text !mb-6",
                                     input: "font-bold text-xl uppercase py-6",
                                 }}
                             />
@@ -66,7 +66,7 @@ export const Contact = () => {
                                 variant="underlined"
                                 labelPlacement="outside"
                                 classNames={{
-                                    label: "font-display text-2xl italic text-primary !mb-6",
+                                    label: "font-display text-2xl italic text-primary-text !mb-6",
                                     input: "font-bold text-xl uppercase py-6",
                                 }}
                             />
@@ -78,7 +78,7 @@ export const Contact = () => {
                                 labelPlacement="outside"
                                 minRows={6}
                                 classNames={{
-                                    label: "font-display text-2xl italic text-primary !mb-6",
+                                    label: "font-display text-2xl italic text-primary-text !mb-6",
                                     input: "font-bold text-lg uppercase py-4",
                                 }}
                             />
