@@ -35,7 +35,7 @@ export const Navigation = () => {
                     <Link href="https://github.com/GabrielPalominoH" target="_blank" className="text-foreground hover:text-primary-text transition-colors">
                         <Github size={20} className="md:w-6 md:h-6" />
                     </Link>
-                    <Link href="#" className="text-foreground hover:text-primary-text transition-colors">
+                    <Link href="https://www.linkedin.com/in/gabriel-palomino-027671239" target="_blank" className="text-foreground hover:text-primary-text transition-colors">
                         <Linkedin size={20} className="md:w-6 md:h-6" />
                     </Link>
                     <Link href="#" className="text-foreground hover:text-primary-text transition-colors">

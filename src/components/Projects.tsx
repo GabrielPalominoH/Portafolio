@@ -4,18 +4,18 @@ import { motion } from "framer-motion";
 export const Projects = () => {
     const projectsList = [
         {
-            title: "SONRISAS DENTAL",
-            image: "/projects/sonrisas.png",
-            tech: "NEXT.JS + HEROUI + TAILWIND",
-            type: "LANDING PAGE",
-            link: "https://sonrisas-dental.vercel.app"
+            title: "COLORGUEST V1",
+            image: "/projects/colorguest.png",
+            tech: "REACT + VITE + CSS",
+            type: "WEB APP",
+            link: "https://guest-color-sigma.vercel.app"
         },
         {
-            title: "RIKITO PE",
-            image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop",
-            tech: "REACT + FRAMER MOTION",
-            type: "ECOMMERCE",
-            link: "#"
+            title: "CALCULADORA MVVM",
+            image: "/projects/calculator.png",
+            tech: "C# + WPF + MVVM",
+            type: "DESKTOP APP",
+            link: "https://github.com/GabrielPalominoH/calculadora-MVVM-C-"
         },
         {
             title: "TECH STUDIO",

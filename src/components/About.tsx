@@ -3,8 +3,8 @@ import { motion } from "framer-motion";
 
 export const About = () => {
     const skills = [
-        "JS", "TS", "REACT", "NEXT", "VITE",
-        "TWD", "NODE", "GIT", "FM", "HUI"
+        "C#", ".NET", "NODE", "JS", "TS",
+        "REACT", "NEXT", "VITE", "TWD", "GIT"
     ];
 
     return (
@@ -22,10 +22,10 @@ export const About = () => {
 
                         <div className="text-default-600 text-xl font-bold uppercase tracking-tighter space-y-8 italic">
                             <p>
-                                Hola! Soy Gabriel Palomino, un apasionado desarrollador frontend con una fuerte inclinación hacia el <span className="text-foreground border-b-4 border-primary">diseño UI/UX</span> impactante.
+                                Hola! Soy Gabriel Palomino, un desarrollador <span className="text-foreground border-b-4 border-primary">fullstack</span> con experiencia en backend con C# y .NET, y frontend con React y Next.js.
                             </p>
                             <p>
-                                Mi enfoque es transformar ideas en <span className="text-foreground">experiencias memorables</span> que rompen lo convencional.
+                                Mi enfoque es construir <span className="text-foreground">soluciones completas y escalables</span>, desde la API hasta la interfaz de usuario.
                             </p>
                         </div>
                     </div>
