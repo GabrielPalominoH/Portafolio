@@ -3,8 +3,8 @@ import { motion } from "framer-motion";
 
 export const About = () => {
     const skills = [
-        "C#", ".NET", "NODE", "JS", "TS",
-        "REACT", "NEXT", "VITE", "TWD", "GIT"
+        "C#", ".NET", "SQL", "NODE", "JS",
+        "TS", "REACT", "NEXT", "TWD", "GIT"
     ];
 
     return (
