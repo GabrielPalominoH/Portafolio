@@ -23,13 +23,6 @@ export const Projects = () => {
             tech: "C# + WPF + MVVM",
             type: "DESKTOP APP",
             link: "https://github.com/GabrielPalominoH/ToDoList-MVVM-C--WPF"
-        },
-        {
-            title: "PORTAFOLIO",
-            image: "/projects/portafolio.png",
-            tech: "TYPESCRIPT + NEXT.JS",
-            type: "WEB APP",
-            link: "https://github.com/GabrielPalominoH/portafolio"
         }
     ];
 
