@@ -18,11 +18,18 @@ export const Projects = () => {
             link: "https://github.com/GabrielPalominoH/calculadora-MVVM-C-"
         },
         {
-            title: "TECH STUDIO",
-            image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=1000&auto=format&fit=crop",
-            tech: "TYPESCRIPT + VITE",
-            type: "SAAS",
-            link: "#"
+            title: "TODO LIST MVVM",
+            image: "/projects/todolist.png",
+            tech: "C# + WPF + MVVM",
+            type: "DESKTOP APP",
+            link: "https://github.com/GabrielPalominoH/ToDoList-MVVM-C--WPF"
+        },
+        {
+            title: "PORTAFOLIO",
+            image: "/projects/portafolio.png",
+            tech: "TYPESCRIPT + NEXT.JS",
+            type: "WEB APP",
+            link: "https://github.com/GabrielPalominoH/portafolio"
         }
     ];
 
